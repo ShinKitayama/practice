@@ -1,0 +1,7 @@
+*{
+    color: white;
+    background-color: rgb(124, 96, 223);
+}
+.done{
+    text-decoration: line-through;
+}
